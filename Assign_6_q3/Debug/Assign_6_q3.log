@@ -1,0 +1,72 @@
+﻿  ran3.cpp
+  ran2.cpp
+  ran.cpp
+  Q2.cpp
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\q2.cpp(12): error C2065: 'PI' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\q2.cpp(13): error C2065: 'PI' : undeclared identifier
+  program.cpp
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(1): error C2144: syntax error : 'int' should be preceded by ';'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(3): error C2065: 'layer' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(3): error C2065: 'Layer' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(3): error C2065: 'layer_p' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(3): error C2182: 'calculate_outputs' : illegal use of type 'void'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(8): error C2057: expected constant expression
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(8): warning C4200: nonstandard extension used : zero-sized array in struct/union
+          Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(9): error C2057: expected constant expression
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(9): error C2087: 'w' : missing subscript
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(9): error C2229: class 'Layer' has an illegal zero-sized array
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(9): warning C4200: nonstandard extension used : zero-sized array in struct/union
+          Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(20): error C2065: 'neural_network' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(20): error C2146: syntax error : missing ';' before identifier 'NN1'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(20): error C3861: 'NN1': identifier not found
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(22): error C2065: 'NN1' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(22): error C2228: left of '.In' must have class/struct/union
+          type is 'unknown-type'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(23): error C2065: 'NN1' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(23): error C2228: left of '.In' must have class/struct/union
+          type is 'unknown-type'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(24): error C2065: 'NN1' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(24): error C2228: left of '.In' must have class/struct/union
+          type is 'unknown-type'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(26): error C2065: 'NN1' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(26): error C2228: left of '.calculate_network_outputs' must have class/struct/union
+          type is 'unknown-type'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(29): error C2065: 'NN1' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(29): error C2228: left of '.N_out' must have class/struct/union
+          type is 'unknown-type'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(29): error C2228: left of '.Out' must have class/struct/union
+          type is 'unknown-type'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(36): error C2059: syntax error : '}'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\program.cpp(36): error C2143: syntax error : missing ';' before '}'
+  Nnetwrk.cpp
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(1): error C2144: syntax error : 'int' should be preceded by ';'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(3): error C2065: 'layer' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(3): error C2065: 'Layer' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(3): error C2065: 'layer_p' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(3): error C2182: 'calculate_outputs' : illegal use of type 'void'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(8): error C2057: expected constant expression
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(8): warning C4200: nonstandard extension used : zero-sized array in struct/union
+          Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(9): error C2057: expected constant expression
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(9): error C2087: 'w' : missing subscript
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(9): error C2229: class 'Layer' has an illegal zero-sized array
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(9): warning C4200: nonstandard extension used : zero-sized array in struct/union
+          Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(11): error C2365: 'calculate_outputs' : redefinition; previous definition was 'data variable'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.h(3) : see declaration of 'calculate_outputs'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(14): error C2106: '=' : left operand must be l-value
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(49): error C2653: 'neural_network' : is not a class or namespace name
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(51): error C2065: 'N_L' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(52): error C2065: 'N_in' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(53): error C2065: 'N_out' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(53): error C2065: 'N_L' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(56): error C2065: 'Lp' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(59): warning C4508: 'neural_network' : function should return a value; 'void' return type assumed
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(65): error C2653: 'neural_network' : is not a class or namespace name
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q3\assign_6_q3\assign_6_q3\nnetwrk.cpp(65): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  Generating Code...
