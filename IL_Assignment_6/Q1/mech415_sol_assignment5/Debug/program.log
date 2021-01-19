@@ -1,0 +1,46 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (.\Debug\) contains files shared from another project (program.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Q1.cpp
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(1): error C2144: syntax error : 'int' should be preceded by ';'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(3): error C2065: 'layer' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(3): error C2065: 'Layer' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(3): error C2065: 'layer_p' : undeclared identifier
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(3): error C2182: 'calculate_outputs' : illegal use of type 'void'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(7): error C2057: expected constant expression
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(7): error C2087: 'w' : missing subscript
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(7): warning C4200: nonstandard extension used : zero-sized array in struct/union
+          Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(8): error C2057: expected constant expression
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(8): error C2229: class 'Layer' has an illegal zero-sized array
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(8): warning C4200: nonstandard extension used : zero-sized array in struct/union
+          Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\q1.cpp(15): error C2248: 'Layer::Layer' : cannot access private member declared in class 'Layer'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(9) : see declaration of 'Layer::Layer'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(5) : see declaration of 'Layer'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(9) : see declaration of 'Layer::Layer'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(5) : see declaration of 'Layer'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\q1.cpp(18): error C2248: 'Layer::Output' : cannot access private member declared in class 'Layer'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(8) : see declaration of 'Layer::Output'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(5) : see declaration of 'Layer'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\q1.cpp(19): error C2248: 'Layer::Output' : cannot access private member declared in class 'Layer'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(8) : see declaration of 'Layer::Output'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(5) : see declaration of 'Layer'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\q1.cpp(20): error C2248: 'Layer::Output' : cannot access private member declared in class 'Layer'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(8) : see declaration of 'Layer::Output'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(5) : see declaration of 'Layer'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\q1.cpp(22): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\q1.cpp(25): error C2248: 'Layer::N_node' : cannot access private member declared in class 'Layer'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(6) : see declaration of 'Layer::N_node'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(5) : see declaration of 'Layer'
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\q1.cpp(25): error C2248: 'Layer::Output' : cannot access private member declared in class 'Layer'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(8) : see declaration of 'Layer::Output'
+          c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.h(5) : see declaration of 'Layer'
+  Nnetwrk.cpp
+c:\users\irwin\documents\irwin\concordia\3_mech_415\assignment\assignments_2019\mech415_assignment_6\il_assignment_6\q1\mech415_sol_assignment5\nnetwrk.cpp(6): fatal error C1083: Cannot open include file: 'Array.h': No such file or directory
+  Array.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Array.cpp': No such file or directory
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  ran3.cpp
+  ran2.cpp
+  ran.cpp
